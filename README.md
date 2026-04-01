@@ -18,9 +18,8 @@ This is a complete CRUD (Create, Read, Update, Delete) web project built with Sp
 * **Delete:** Remove an employee from the database with a single click.
 
 ## 🚀 How to Run Locally
-
+```bash
 1. Clone this repository to your local machine:
-  ```bash
    git clone https://github.com/RomanAndrei-Bogdan/Springboot-and-Thymeleaf-CRUD-project.git
 
 2. Navigate to the project folder:
